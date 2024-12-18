@@ -1,6 +1,6 @@
 # MediaMelt
 
-This project allows you to download a YouTube video as an MP4 file and convert it to MP3 audio format. It utilizes `pytube` for downloading the video and `moviepy` for extracting the audio.
+This project allows you to download a YouTube video as an MP4 file and convert it to MP3 audio format. It utilizes `pytube` for downloading the video and `moviepy` for extracting the audio
 
 ## Features:
 - Download YouTube video in the highest resolution available.
