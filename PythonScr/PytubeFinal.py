@@ -34,7 +34,7 @@ mp3FileName = mp4FileName[:-4] + ".mp3"
 
 # EDITING MP3 ------------
 
-# videoClip = VideoFileClip(mp4FileName).path("C:/Users/deexi/OneDrive/Desktop")
+# videoClip = VideoFileClip(mp4FileName).path("C:/Users/kishore/OneDrive/Desktop")
 
 videoClip = VideoFileClip(mp4FileName)
 
