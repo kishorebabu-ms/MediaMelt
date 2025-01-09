@@ -3,7 +3,7 @@ import pytube #for pytube.
 import os #for renaming file stored in the file explorer
 from moviepy.editor import * #for VideoFileClip etc.
 
-#dwnPath = "C:/Users/deexi/OneDrive/Desktop/WebDev/Pytube/Mp4Garage","wb"
+#dwnPath = "C:/Users/kishore/OneDrive/Desktop/WebDev/Pytube/Mp4Garage","wb"
 
 urlLink = "https://www.youtube.com/watch?v=Un0VUHq2MZ0"
 
